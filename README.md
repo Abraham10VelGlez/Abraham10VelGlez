@@ -3,17 +3,14 @@
 <p align="center" >
   <samp>
     Abraham
-  <br/> Me gusta la leche con chocolate
+  <br/> <b> Me gusta la leche con chocolate</b>
     <b>Y vender dulces</b>
   </samp>
   <br/>
   <br/>
   <br/>
   <br/>
-</p>
-  ### Languages 🛠
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> 
-</center>
+</p>  
 ### Github Status
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuarteDc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
