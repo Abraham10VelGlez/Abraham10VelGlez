@@ -2,9 +2,8 @@
 <center>
 <p align="center" >
   <samp>
-    Abraham
+    Abraham VG
   <br/> <b> Me gusta la leche con chocolate</b>
-    <b>Y vender dulces</b>
   </samp>
   <br/>
   <br/>
