@@ -1,0 +1,15 @@
+version: 'CV1.9.9'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /app
+    volumes:
+      - ./:/app
+      - /app/node_modules
+    ports:
+      - "5173:5173"
+    command: [ "yarn", "dev" ]
+
+#docker-compose up --build
