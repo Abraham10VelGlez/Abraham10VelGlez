@@ -1,6 +1,8 @@
 import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
-import Inicio from '../../inicio';
+import Inicio from '../Inicio';
+
+
 
 export default function Navigates() {
     return (
