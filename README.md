@@ -2,7 +2,7 @@
 <p align="center" >
   <samp>
     Abraham VG
-  <br/> <b> Me gusta la leche con chocolate</b>
+  <br/> <b> Development and Seller</b>
   </samp>
   <br/>
   <br/>
