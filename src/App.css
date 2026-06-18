@@ -1,1 +1,4 @@
-
+.CanvasX {
+  position: fixed !important;
+  inset: 0 !important;
+}
